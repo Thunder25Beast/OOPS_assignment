@@ -1,12 +1,12 @@
-# Car Inventory Management System in C++
+# Car Inventory Management System in Python
 
 ## Description
-This project demonstrates Object-Oriented Programming concepts using a car-themed inventory management system in C++. Concepts include encapsulation, inheritance, and polymorphism.
+This project demonstrates Object-Oriented Programming concepts using a car-themed inventory management system in Python. Concepts include encapsulation, inheritance, and polymorphism.
 
 ## Instructions
-1. Compile and run each task's code using a C++ compiler.
+1. Compile and run each task's code using a python compiler.
 2. Modify and extend the code as needed for additional features.
 
 ## Requirements
-- C++ compiler supporting C++11 or higher.
+- python compiler.
 
